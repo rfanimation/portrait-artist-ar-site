@@ -1,14 +1,28 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rfanimation/portrait-artist-ar-site/main/assets/hero.png" alt="Portrait Artist AR" width="100%">
+  <img src="assets/app-icon.png" alt="Portrait Artist AR" width="150" style="border-radius: 30px;">
 </p>
 
-# Portrait Artist AR
+<h1 align="center">Portrait Artist AR</h1>
 
-### See Your Reference. Perfect Your Art.
+<h3 align="center">See Your Reference. Perfect Your Art.</h3>
 
-**The AR drawing companion that eliminates guesswork from your artistic process.**
+<p align="center">
+  <strong>The AR drawing companion that eliminates guesswork from your artistic process.</strong>
+</p>
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/portrait-artist-ar)
+<p align="center">
+  <a href="https://apps.apple.com/app/portrait-artist-ar">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/screenshot-1.png" alt="AR Overlay" width="220">&nbsp;&nbsp;
+  <img src="assets/screenshot-2.png" alt="Value Analysis" width="220">&nbsp;&nbsp;
+  <img src="assets/screenshot-3.png" alt="Comparison Tools" width="220">
+</p>
 
 ---
 
@@ -40,22 +54,22 @@ Slide the opacity to check your work anytime. The overlay stays locked while you
 
 ## Features That Matter
 
-### 🎯 Precision AR Tracking
+### Precision AR Tracking
 LiDAR-powered positioning that stays locked to your canvas. No drift. No recalibration. Just stable, reliable overlay throughout your entire session.
 
-### 👁️ Instant Value Checks
+### Instant Value Checks
 One tap converts your reference to 2-10 value levels. Finally see the underlying structure that makes great paintings work.
 
-### ⚖️ Four Ways to Compare
+### Four Ways to Compare
 - **Overlay** — Adjust opacity from 0-100%
 - **Split** — Drag a divider across your view
 - **Toggle** — Instant flip between reference and canvas
 - **Difference** — See exactly where you've deviated
 
-### 📐 Built-In Composition Guides
+### Built-In Composition Guides
 Rule of Thirds. Golden Ratio. Diagonals. The guides you need, when you need them.
 
-### 💾 Pick Up Where You Left Off
+### Pick Up Where You Left Off
 Close the app mid-session? Your overlay position, scale, and settings are automatically saved and restored.
 
 ---
@@ -63,20 +77,10 @@ Close the app mid-session? Your overlay position, scale, and settings are automa
 ## Who It's For
 
 - **Portrait artists** checking facial proportions and likeness
-- **Figure drawers** verifying gesture, anatomy, and foreshortening  
+- **Figure drawers** verifying gesture, anatomy, and foreshortening
 - **Landscape painters** matching value relationships and composition
 - **Students** learning to see accurately
 - **Professionals** who demand precision
-
----
-
-## What Artists Are Saying
-
-> "I used to spend the first hour of every session just measuring. Now I verify in seconds and spend that time actually painting."
-
-> "The value posterization alone is worth the price. I finally understand why my paintings were falling flat."
-
-> "It's like having a master artist looking over your shoulder, but without the anxiety."
 
 ---
 
@@ -84,10 +88,10 @@ Close the app mid-session? Your overlay position, scale, and settings are automa
 
 **$4.99** — Unlock unlimited reference images forever.
 
-- ✓ All features included
-- ✓ All future updates free
-- ✓ Family Sharing enabled
-- ✓ No subscriptions, no ads, no tracking
+- All features included
+- All future updates free
+- Family Sharing enabled
+- No subscriptions, no ads, no tracking
 
 ---
 
@@ -105,8 +109,8 @@ Close the app mid-session? Your overlay position, scale, and settings are automa
 </p>
 
 <p align="center">
-  <a href="https://github.com/rfanimation/portrait-artist-ar-support">Support</a> · 
-  <a href="https://github.com/rfanimation/portrait-artist-ar-support/blob/main/PRIVACY_POLICY.md">Privacy</a> · 
+  <a href="https://github.com/rfanimation/portrait-artist-ar-support">Support</a> ·
+  <a href="https://github.com/rfanimation/portrait-artist-ar-support/blob/main/PRIVACY_POLICY.md">Privacy</a> ·
   <a href="https://github.com/rfanimation/portrait-artist-ar-support/blob/main/TERMS_OF_USE.md">Terms</a>
 </p>
 
